@@ -4,12 +4,12 @@
 <head>
     <title>WHISTLEBz</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="('asset/css/libs/animate.css')">
-    <link rel="stylesheet" href="('asset/css/libs/owl.carousel.min.css')">
-    <link rel="stylesheet" type="text/css" href="('asset/css/stylesheet.css')">
-    <script src="'js/libs/jquery.min.js')"></script>
-    <script src="('asset/js/libs/owl.carousel.js')"></script>
-    <script src="('asset/js/custom.js')" type="text/javascript"></script>
+    <link rel="stylesheet" type="text/css" href="asset('css/libs/animate.css')">
+    <link rel="stylesheet" href="asset('css/libs/owl.carousel.min.css')">
+    <link rel="stylesheet" type="text/css" href="asset('css/stylesheet.css')">
+    <script src="'asset('js/libs/jquery.min.js')"></script>
+    <script src="asset('js/libs/owl.carousel.js')"></script>
+    <script src="asset('js/custom.js')" type="text/javascript"></script>
     <style>
         .wow:first-child {
             visibility: hidden;
@@ -462,7 +462,7 @@
             </div>
         </footer>
     </section>
-    <script src="('asset/js/libs/wow.js')" type="text/javascript" charset="utf-8" async defer></script>
+    <script src="asset('js/libs/wow.js')" type="text/javascript" charset="utf-8" async defer></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script>
         const stats = document.querySelectorAll(".counter");
