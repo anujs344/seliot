@@ -4,12 +4,12 @@
 <head>
     <title>WHISTLEBz</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="{{asset('asset/css/libs/animate.css')}}">
-    <link rel="stylesheet" href="{{asset('asset/css/libs/owl.carousel.min.css')}}">
-    <link rel="stylesheet" type="text/css" href="{{asset('asset/css/stylesheet.css')}}">
-    <script src="{{asset('asset/js/libs/jquery.min.js')}}"></script>
-    <script src="{{asset('asset/js/libs/owl.carousel.js')}}"></script>
-    <script src="{{asset('asset/js/custom.js')}}" type="text/javascript"></script>
+    <link rel="stylesheet" type="text/css" href="{{asset('css/libs/animate.css')}}">
+    <link rel="stylesheet" href="{{asset('/css/libs/owl.carousel.min.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('css/stylesheet.css')}}">
+    <script src="{{asset('js/libs/jquery.min.js')}}"></script>
+    <script src="{{asset('js/libs/owl.carousel.js')}}"></script>
+    <script src="{{asset('js/custom.js')}}" type="text/javascript"></script>
     <style>
         .wow:first-child {
             visibility: hidden;
@@ -26,7 +26,7 @@
                 </div>
                 <div class="nav__row">
                     <div class="site__fix">
-                        <a href="" title="whistleb" class="logo"> <img src="{{asset('asset/images/logos.jpeg')}}" alt="whistleb" height="100%"></a>
+                        <a href="" title="whistleb" class="logo"> <img src="{{asset('images/logos.jpeg')}}" alt="whistleb" height="100%"></a>
                         <div class="burger-container">
                             <div id="burger">
                                 <div class="bar topBar"></div>
@@ -83,7 +83,7 @@
                     <ul class="recent__listing">
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="{{asset('asset/images/r-work-1.jpg')}}" alt="">
+                                <img src="{{asset('images/r-work-1.jpg')}}" alt="">
                                 <div class="content__block">
                                     <div class="content__block__inner">
                                         <div class="content__block__text">
@@ -96,7 +96,7 @@
                         </li>
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="{{asset('asset/images/r-work-2.jpg')}}" alt="">
+                                <img src="{{asset('images/r-work-2.jpg')}}" alt="">
                                 <div class="content__block">
                                     <div class="content__block__inner">
                                         <div class="content__block__text">
@@ -109,7 +109,7 @@
                         </li>
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="{{asset('asset/images/r-work-3.jpg')}}" alt="">
+                                <img src="{{asset('images/r-work-3.jpg')}}" alt="">
                                 <div class="content__block">
                                     <div class="content__block__inner">
                                         <div class="content__block__text">
@@ -122,7 +122,7 @@
                         </li>
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="{{asset('asset/images/r-work-4.jpg')}}" alt="">
+                                <img src="{{asset('images/r-work-4.jpg')}}" alt="">
                                 <div class="content__block">
                                     <div class="content__block__inner">
                                         <div class="content__block__text">
@@ -135,7 +135,7 @@
                         </li>
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="{{asset('asset/images/r-work-5.jpg')}}" alt="">
+                                <img src="{{asset('images/r-work-5.jpg')}}" alt="">
                                 <div class="content__block">
                                     <div class="content__block__inner">
                                         <div class="content__block__text">
@@ -148,7 +148,7 @@
                         </li>
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="{{asset('asset/images/r-work-6.jpg')}}" alt="">
+                                <img src="{{asset('images/r-work-6.jpg')}}" alt="">
                                 <div class="content__block">
                                     <div class="content__block__inner">
                                         <div class="content__block__text">
@@ -175,7 +175,7 @@
                     <ul class="recent__listing">
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="{{asset('asset/images/Our Offerings/business.png')}}" alt="">
+                                <img src="{{asset('images/Our Offerings/business.png')}}" alt="">
                                 <div class="content__block">
                                     <div class="content__block__inner">
                                        
@@ -186,7 +186,7 @@
 
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="{{asset('asset/images/Our Offerings/web.png')}}" alt="">
+                                <img src="{{asset('images/Our Offerings/web.png')}}" alt="">
                                 <div class="content__block">
                                     <div class="content__block__inner">
                                       
@@ -198,7 +198,7 @@
 
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="{{asset('asset/images/Our Offerings/testing.png')}}" alt="">
+                                <img src="{{asset('images/Our Offerings/testing.png')}}" alt="">
                                 <div class="content__block">
                                     <div class="content__block__inner">
                                       
@@ -209,7 +209,7 @@
 
                         <li class="wow fadeIn">
                             <a href="" title="">
-                                <img src="{{asset('asset/images/Our Offerings/everything.png')}}" alt="">
+                                <img src="{{asset('images/Our Offerings/everything.png')}}" alt="">
                                  <div class="content__block">
                                     <div class="content__block__inner">
                                    
@@ -230,7 +230,7 @@
                     <p class="short__dec" style="font-size: 1.4em; color:black;">We are innovators in creative web design in Los Angeles. We don’t play any guessing games, but seek the facts from a range of analytics to help you get the edge.</p>
                     <div class="exp__listing" ">
                         <article class="wow fadeInUp"style="background-color: lightgray;>
-                            <i class="exp-icon"> <img src="{{asset('asset/images/expertise/expertise-1.png')}}" alt=""></i>
+                            <i class="exp-icon"> <img src="{{asset('images/expertise/expertise-1.png')}}" alt=""></i>
                             <h2>Discovery</h2>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices vel nunc et mattis. Sed nec ipsum nec justo elementum tincidunt ut bibendum augue. Nullam vitae lectus congue nulla faucibus malesuada in vel ex. Integer
@@ -238,7 +238,7 @@
                             </p>
                             <span class="link"><a href="/discovery/">Explore Services &gt;</a> </span>
                             <div class="expertise__hover">
-                                <img src="{{asset('asset/images/expertise/expertise_block-1_hover.jpg')}}">
+                                <img src="{{asset('images/expertise/expertise_block-1_hover.jpg')}}">
                                 <div class="inner">
                                     <div class="exp__text">
                                         <h4>Discovery</h4>
@@ -265,7 +265,7 @@
                             </div>
                         </article>
                         <article class="wow fadeInUp"style="background-color: lightgray;>
-                            <i class="exp-icon"> <img src="{{asset('asset/images/expertise/expertise-1.png')}}" alt=""></i>
+                            <i class="exp-icon"> <img src="{{asset('images/expertise/expertise-1.png')}}" alt=""></i>
                             <h2>Strategy &amp; <br>Planning</h2>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices vel nunc et mattis. Sed nec ipsum nec justo elementum tincidunt ut bibendum augue. Nullam vitae lectus congue nulla faucibus malesuada in vel ex. Integer
@@ -273,7 +273,7 @@
                             </p>
                             <span class="link"><a href="/discovery/">Explore Services &gt;</a> </span>
                             <div class="expertise__hover">
-                                <img src="{{asset('asset/images/expertise/expertise_block-1_hover.jpg')}}">
+                                <img src="{{asset('images/expertise/expertise_block-1_hover.jpg')}}">
                                 <div class="inner">
                                     <div class="exp__text">
                                         <h4>Discovery</h4>
@@ -300,7 +300,7 @@
                             </div>
                         </article>
                         <article class="wow fadeInUp"style="background-color: lightgray;>
-                            <i class="exp-icon"> <img src="{{asset('asset/images/expertise/expertise-1.png')}}" alt=""></i>
+                            <i class="exp-icon"> <img src="{{asset('images/expertise/expertise-1.png')}}" alt=""></i>
                             <h2>Discovery</h2>
                             <p>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices vel nunc et mattis. Sed nec ipsum nec justo elementum tincidunt ut bibendum augue. Nullam vitae lectus congue nulla faucibus malesuada in vel ex. Integer
@@ -308,7 +308,7 @@
                             </p>
                             <span class="link"><a href="/discovery/">Explore Services &gt;</a> </span>
                             <div class="expertise__hover">
-                                <img src="{{asset('asset/images/expertise/expertise_block-1_hover.jpg')}}">
+                                <img src="{{asset('images/expertise/expertise_block-1_hover.jpg')}}">
                                 <div class="inner">
                                     <div class="exp__text">
                                         <h4>Discovery</h4>
@@ -462,7 +462,7 @@
             </div>
         </footer>
     </section>
-    <script src="{{asset('asset/js/libs/wow.js')}}" type="text/javascript" charset="utf-8" async defer></script>
+    <script src="{{asset('js/libs/wow.js')}}" type="text/javascript" charset="utf-8" async defer></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script>
         const stats = document.querySelectorAll(".counter");
